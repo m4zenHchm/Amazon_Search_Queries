@@ -1,0 +1,8 @@
+# data and trained models are too big for git (models go to a GitHub Release)
+data/
+models/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.parquet

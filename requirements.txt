@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn>=1.4
+rapidfuzz
+joblib
+matplotlib
+torch
+transformers>=4.40
+jupyter
