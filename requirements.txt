@@ -1,11 +1,12 @@
-numpy
-pandas
-pyarrow
-scipy
-scikit-learn>=1.4
-rapidfuzz
-joblib
-matplotlib
-torch
-transformers>=4.40
+# exact versions used for the final Kaggle run (Python 3.13.16, T4 GPU)
+numpy==2.1.3
+pandas==2.3.3
+pyarrow==23.0.1
+scipy==1.16.3
+scikit-learn==1.6.1
+rapidfuzz==3.14.6
+joblib==1.6.0
+matplotlib==3.10.0
+torch==2.11.0
+transformers==5.20.2
 jupyter
